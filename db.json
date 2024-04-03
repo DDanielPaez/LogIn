@@ -1,0 +1,71 @@
+{
+  "usuarios": [
+    {
+      "id": "51fd",
+      "nombre": "Daniel"
+    },
+    {
+      "id": "0c0e",
+      "nombre": "Carmen"
+    },
+    {
+      "id": "54ee",
+      "nombre": "Carmen"
+    },
+    {
+      "id": "b636",
+      "nombre": "valmarin"
+    },
+    {
+      "id": "be11",
+      "nombre": "usuario"
+    }
+  ],
+  "tareas": [
+    {
+      "id": "808b",
+      "textoTarea": "escribir",
+      "idUsuario": "51fd",
+      "checked": true
+    },
+    {
+      "id": "371a",
+      "textoTarea": "cantar",
+      "idUsuario": "51fd",
+      "checked": true
+    },
+    {
+      "id": "2c88",
+      "textoTarea": "Correr",
+      "idUsuario": "0c0e"
+    },
+    {
+      "id": "fff9",
+      "textoTarea": "ser feliz",
+      "idUsuario": "b636",
+      "checked": true
+    },
+    {
+      "id": "2198",
+      "textoTarea": "dormir",
+      "idUsuario": "b636"
+    },
+    {
+      "id": "6714",
+      "textoTarea": "comer",
+      "idUsuario": "51fd"
+    },
+    {
+      "id": "9972",
+      "textoTarea": "escribir",
+      "idUsuario": "be11",
+      "checked": true
+    },
+    {
+      "id": "5579",
+      "textoTarea": "bailar",
+      "idUsuario": "be11",
+      "checked": true
+    }
+  ]
+}
